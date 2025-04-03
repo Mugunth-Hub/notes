@@ -7,7 +7,13 @@
 2.copy code http in github 
 
 //how to commit and push in repostory 
-1.go to source control tab in visualstdio code
+1.go to source control in view tab in visualstdio code
 2.click plus icon (+) in control tab to stage 
 3. click commit to commit the change in reposetory  
 4. click sync to show in green in github 
+
+
+//how to commint and push in terminal 
+git add .
+git commit -m "Updated something"
+git push origin main
